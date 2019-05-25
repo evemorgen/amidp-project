@@ -14,12 +14,12 @@ python3 -m venv ENV
 ```
 
 3. Install dependecies
-```
+```bash
 python -m pip install -r requirements.txt
 ```
 
 4. Run it
-```
+```bash
 python faulty_records_search.py -h              130 ↵
 usage: faulty_records_search.py [-h] [-d DIRECTORY]
 
@@ -33,7 +33,7 @@ optional arguments:
 ```
 
 5. Example run:
-```
+```bash
 python faulty_records_search.py --directory '**/BITalino/*.csv'
 2019-05-25 15:40:41 pc67.home root[43033] INFO [2/104] processing data/2018-afcai-spring/B303/BITalino/GSR_p.csv
 2019-05-25 15:40:41 pc67.home root[43032] INFO [1/104] processing data/2018-afcai-spring/B303/BITalino/BPM_p.csv
