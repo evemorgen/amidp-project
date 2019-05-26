@@ -1,0 +1,159 @@
+INFO:root:[1/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B303/BITalino/BPM_p.csv
+INFO:root:[2/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B303/BITalino/GSR_p.csv
+INFO:root:[3/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B305/BITalino/BPM.csv
+INFO:root:[4/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B305/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B303/BITalino/BPM_p.csv contained 66194 values outside IRQ, which is 10% of values
+INFO:root:[5/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B307/BITalino/BPM.csv
+INFO:root:[6/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B307/BITalino/GSR.csv
+INFO:root:[7/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B310/BITalino/BPM.csv
+INFO:root:[8/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B310/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B307/BITalino/GSR.csv contained 490377 values outside clusters in isolation forest, which is 41.0% of values
+INFO:root:[9/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B316/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B316/BITalino/BPM.csv contained 160153 values outside IRQ, which is 13% of values
+INFO:root:[10/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B316/BITalino/GSR.csv
+INFO:root:[11/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B324/BITalino/BPM.csv
+INFO:root:[12/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B324/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B316/BITalino/GSR.csv contained 461822 values outside clusters in isolation forest, which is 36.0% of values
+INFO:root:[13/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B325/BITalino/BPM.csv
+INFO:root:[14/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B325/BITalino/GSR.csv
+WARNING:root:[over 50% same values] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B325/BITalino/GSR.csv contained 681 different values, 99.68% of them was 1020.0
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B325/BITalino/BPM.csv contained 190775 values outside IRQ, which is 16% of values
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B324/BITalino/GSR.csv contained 482106 values outside clusters in isolation forest, which is 38.0% of values
+INFO:root:[15/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B326/BITalino/BPM.csv
+INFO:root:[16/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B326/BITalino/GSR.csv
+INFO:root:[17/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B330/BITalino/BPM.csv
+INFO:root:[18/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B330/BITalino/GSR.csv
+INFO:root:[19/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B331/BITalino/BPM.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B326/BITalino/GSR.csv contained 459700 values outside clusters in isolation forest, which is 38.0% of values
+INFO:root:[20/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B331/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B331/BITalino/BPM.csv contained 225406 values outside IRQ, which is 13% of values
+INFO:root:[21/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B334/BITalino/BPM.csv
+INFO:root:[22/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B334/BITalino/GSR.csv
+INFO:root:[23/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B336/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B336/BITalino/BPM.csv contained 178041 values outside IRQ, which is 13% of values
+INFO:root:[24/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B336/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B334/BITalino/GSR.csv contained 495599 values outside clusters in isolation forest, which is 41.0% of values
+INFO:root:[25/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B338/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B338/BITalino/BPM.csv contained 169352 values outside IRQ, which is 14% of values
+INFO:root:[26/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B338/BITalino/GSR.csv
+INFO:root:[27/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B339/BITalino/BPM.csv
+INFO:root:[28/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B339/BITalino/GSR.csv
+INFO:root:[29/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B346/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B346/BITalino/BPM.csv contained 205599 values outside IRQ, which is 16% of values
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B338/BITalino/GSR.csv contained 526421 values outside clusters in isolation forest, which is 44.0% of values
+INFO:root:[30/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B346/BITalino/GSR.csv
+INFO:root:[31/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B348/BITalino/BPM.csv
+INFO:root:[32/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B348/BITalino/GSR.csv
+INFO:root:[33/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B350/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B350/BITalino/BPM.csv contained 127492 values outside IRQ, which is 11% of values
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B346/BITalino/GSR.csv contained 588629 values outside clusters in isolation forest, which is 45.0% of values
+INFO:root:[34/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B350/BITalino/GSR.csv
+INFO:root:[35/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B357/BITalino/BPM.csv
+INFO:root:[36/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B357/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B357/BITalino/BPM.csv contained 125801 values outside IRQ, which is 11% of values
+INFO:root:[37/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B359/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B359/BITalino/BPM.csv contained 120317 values outside IRQ, which is 10% of values
+INFO:root:[38/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B359/BITalino/GSR.csv
+INFO:root:[39/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B360/BITalino/BPM.csv
+INFO:root:[40/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B360/BITalino/GSR.csv
+INFO:root:[41/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B362/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B362/BITalino/BPM.csv contained 169954 values outside IRQ, which is 13% of values
+INFO:root:[42/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B362/BITalino/GSR.csv
+WARNING:root:[over 50% same values] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B362/BITalino/GSR.csv contained 454 different values, 52.94% of them was 1020.0
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B360/BITalino/GSR.csv contained 639623 values outside clusters in isolation forest, which is 47.0% of values
+INFO:root:[43/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B365/BITalino/BPM.csv
+INFO:root:[44/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B365/BITalino/GSR.csv
+INFO:root:[45/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B368/BITalino/BPM.csv
+INFO:root:[46/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B368/BITalino/GSR.csv
+INFO:root:[47/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B370/BITalino/BPM.csv
+INFO:root:[48/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B370/BITalino/GSR.csv
+INFO:root:[49/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B372/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B372/BITalino/BPM.csv contained 133465 values outside IRQ, which is 11% of values
+INFO:root:[50/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B372/BITalino/GSR.csv
+WARNING:root:[over 50% same values] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B372/BITalino/GSR.csv contained 1 different values, 100.0% of them was 1020.0
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B372/BITalino/GSR.csv contained 1228000 values outside clusters in isolation forest, which is 100.0% of values
+INFO:root:[51/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B374/BITalino/BPM.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B370/BITalino/GSR.csv contained 389205 values outside clusters in isolation forest, which is 40.0% of values
+INFO:root:[52/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B374/BITalino/GSR.csv
+INFO:root:[53/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B374b/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B374b/BITalino/BPM.csv contained 149270 values outside IRQ, which is 11% of values
+INFO:root:[54/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B374b/BITalino/GSR.csv
+INFO:root:[55/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B376/BITalino/BPM.csv
+INFO:root:[56/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B376/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B376/BITalino/BPM.csv contained 154981 values outside IRQ, which is 17% of values
+INFO:root:[57/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B378/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B378/BITalino/BPM.csv contained 209023 values outside IRQ, which is 18% of values
+INFO:root:[58/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B378/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B376/BITalino/GSR.csv contained 418072 values outside clusters in isolation forest, which is 45.0% of values
+INFO:root:[59/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B380/BITalino/BPM.csv
+INFO:root:[60/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B380/BITalino/GSR.csv
+INFO:root:[61/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B382/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B382/BITalino/BPM.csv contained 152809 values outside IRQ, which is 14% of values
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B378/BITalino/GSR.csv contained 584265 values outside clusters in isolation forest, which is 51.0% of values
+INFO:root:[62/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B382/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B380/BITalino/GSR.csv contained 462439 values outside clusters in isolation forest, which is 44.0% of values
+INFO:root:[63/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B386/BITalino/BPM.csv
+INFO:root:[64/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B386/BITalino/GSR.csv
+INFO:root:[65/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B388/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B388/BITalino/BPM.csv contained 138133 values outside IRQ, which is 14% of values
+INFO:root:[66/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B388/BITalino/GSR.csv
+WARNING:root:[over 50% same values] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B388/BITalino/GSR.csv contained 295 different values, 51.29% of them was 1020.0
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B386/BITalino/GSR.csv contained 491060 values outside clusters in isolation forest, which is 44.0% of values
+INFO:root:[67/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B390/BITalino/BPM.csv
+INFO:root:[68/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B390/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B388/BITalino/GSR.csv contained 490997 values outside clusters in isolation forest, which is 49.0% of values
+INFO:root:[69/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B392/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B392/BITalino/BPM.csv contained 178712 values outside IRQ, which is 14% of values
+INFO:root:[70/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B392/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B390/BITalino/GSR.csv contained 591469 values outside clusters in isolation forest, which is 51.0% of values
+INFO:root:[71/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B394/BITalino/BPM.csv
+INFO:root:[72/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B394/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B394/BITalino/BPM.csv contained 147289 values outside IRQ, which is 11% of values
+INFO:root:[73/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B398/BITalino/BPM.csv
+INFO:root:[74/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B398/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B398/BITalino/BPM.csv contained 198945 values outside IRQ, which is 15% of values
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B394/BITalino/GSR.csv contained 776018 values outside clusters in isolation forest, which is 59.0% of values
+INFO:root:[75/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D311/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D311/BITalino/BPM.csv contained 170986 values outside IRQ, which is 14% of values
+INFO:root:[76/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D311/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/B398/BITalino/GSR.csv contained 716964 values outside clusters in isolation forest, which is 53.0% of values
+INFO:root:[77/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D312/BITalino/BPM.csv
+INFO:root:[78/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D312/BITalino/GSR.csv
+INFO:root:[79/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D313/BITalino/BPM.csv
+INFO:root:[80/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D313/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D313/BITalino/BPM.csv contained 190762 values outside IRQ, which is 19% of values
+WARNING:root:[over 50% same values] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D313/BITalino/GSR.csv contained 258 different values, 81.97% of them was 1020.0
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D313/BITalino/GSR.csv contained 179420 values outside IRQ, which is 18% of values
+INFO:root:[81/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D314/BITalino/BPM.csv
+INFO:root:[82/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D314/BITalino/GSR.csv
+INFO:root:[83/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D315/BITalino/BPM.csv
+INFO:root:[84/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D315/BITalino/GSR.csv
+INFO:root:[85/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D318/BITalino/BPM.csv
+INFO:root:[86/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D318/BITalino/GSR.csv
+INFO:root:[87/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D319/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D319/BITalino/BPM.csv contained 284196 values outside IRQ, which is 22% of values
+INFO:root:[88/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D319/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D318/BITalino/GSR.csv contained 650850 values outside clusters in isolation forest, which is 57.0% of values
+INFO:root:[89/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D320/BITalino/BPM.csv
+INFO:root:[90/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D320/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D319/BITalino/GSR.csv contained 671018 values outside clusters in isolation forest, which is 53.0% of values
+INFO:root:[91/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D321/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D321/BITalino/BPM.csv contained 119055 values outside IRQ, which is 11% of values
+INFO:root:[92/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D321/BITalino/GSR.csv
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D320/BITalino/GSR.csv contained 511505 values outside clusters in isolation forest, which is 41.0% of values
+INFO:root:[93/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D322/BITalino/BPM.csv
+INFO:root:[94/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D322/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D322/BITalino/BPM.csv contained 106523 values outside IRQ, which is 10% of values
+INFO:root:[95/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D323/BITalino/BPM.csv
+INFO:root:[96/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D323/BITalino/GSR.csv
+INFO:root:[97/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D335/BITalino/BPM.csv
+INFO:root:[98/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D335/BITalino/GSR.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D335/BITalino/BPM.csv contained 126914 values outside IRQ, which is 10% of values
+WARNING:root:[isolation forest] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D323/BITalino/GSR.csv contained 837591 values outside clusters in isolation forest, which is 58.0% of values
+INFO:root:[99/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D352/BITalino/BPM.csv
+INFO:root:[100/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D352/BITalino/GSR.csv
+INFO:root:[101/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D354/BITalino/BPM.csv
+INFO:root:[102/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D354/BITalino/GSR.csv
+INFO:root:[103/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D393/BITalino/BPM.csv
+WARNING:root:[over irq threshold] /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D393/BITalino/BPM.csv contained 206519 values outside IRQ, which is 19% of values
+INFO:root:[104/104] processing /Volumes/SD/AfCAI 2018 wyniki eksperymentu/2018-afcai-spring/D393/BITalino/GSR.csv
