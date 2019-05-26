@@ -1,7 +1,6 @@
 import numpy
 import pandas
 import logging
-import time
 
 from scipy import stats
 from sklearn.cluster import DBSCAN
@@ -64,23 +63,15 @@ def two_sigma(data, filename):
 
 
 def dbscan(data, filename):
-    print("starting db scan")
     outlier_detection = DBSCAN(min_samples=1000, eps=50)
-    start = time.time()
     clusters = outlier_detection.fit_predict(data)
-    stop = time.time()
-    print(list(clusters).count(-1))
-    print("took %s" % (stop - start))
+    return bool(clusters)
 
 
 def isolation_forest(data, filename):
     clf = IsolationForest(behaviour='new', max_samples=500, random_state=1, contamination='auto')
-    start = time.time()
     preds = clf.fit_predict(data)
-    end = time.time()
     outliers = numpy.unique(preds, return_counts=True)[1][0]
-    print(outliers)
-    print("done, took %s" % (end - start))
     if (outliers / len(data)) * 100 > 35:
         logging.warning(
             f"[isolation forest] {filename} contained {outliers} values outside clusters in isolation forest, "

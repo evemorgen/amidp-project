@@ -45,14 +45,20 @@ def check(i, file, files_to_process):
 
 
 if __name__ == '__main__':
-    coloredlogs.install()
     parser = ArgumentParser(description='Script for filtering faulty records in provided dataset')
     parser.add_argument(
         '-d', '--directory',
         help="Directory containing csv files. Script searches for csv's recursively",
         default="**/BITalino/*.csv"
     )
+    parser.add_argument(
+        '-o', '--output',
+        help="Output file where report will be saved",
+        default='report.txt'
+    )
     args = parser.parse_args()
+    logging.basicConfig(filename=args.output, level=logging.INFO)
+    coloredlogs.install()
     files_to_process = find_csvs(args.directory)
     executor = Parallel(n_jobs=cpu_count(), backend='multiprocessing')
     tasks = [delayed(check)(i, file, files_to_process) for i, file in enumerate(files_to_process, 1)]
